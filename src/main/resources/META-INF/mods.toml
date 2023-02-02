@@ -1,0 +1,22 @@
+modLoader="javafml"
+loaderVersion="[43,)"
+license="MIT License"
+
+[[mods]]
+modId="custom_commands"
+version="0.0.1-1.19.2"
+displayName="Custom commands"
+credits="Custom commands mod for me and my friends - https://www.czarnuch.tech"
+displayURL="https://www.czarnuch.tech"
+authors="ZareMate, JT Team"
+
+[[dependencies.custom_commands]]
+    modId="minecraft"
+    mandatory=true
+    versionRange="[1.19.2]"
+    ordering="NONE"
+    side="BOTH"
+
+
+
+
